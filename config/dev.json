@@ -1,0 +1,5 @@
+{
+  "privkey":"/etc/letsencrypt/live/MY-DOMAIN-NAME/privkey.pem",
+  "cert":"/etc/letsencrypt/live/MY-DOMAIN-NAME/fullchain.pem",
+  "requestingUser" : "amzn1.ask.account.MY-AMAZON-ACCOUNT-NAME"
+}
