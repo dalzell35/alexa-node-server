@@ -1,0 +1,22 @@
+
+{
+  "intents": [
+    {
+      "intent": "triggerNameOne",
+      "slots": [
+        {
+          "name": "value",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "key",
+          "type": "LIST_OF_SIGNS"
+        }
+      ]
+    },
+    {
+      "intent": "triggerNameTwo",
+      "slots": []
+    }
+  ]
+}

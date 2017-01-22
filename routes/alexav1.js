@@ -22,7 +22,7 @@ var outputSpeech = {};
 if (awsUser === config.requestingUser) {
   // Trigger names are called 'intents', and are defined when you create your function using the aws console
   switch (triggerName) {
-    case "triggerName1":
+    case "triggerNameOne":
       // Put in here calls to your own functions / services
       //Additional slot information is provided in triggerSlots. These are defined and explained in more detail in aws alexa console
       console.log (JSON.stringify(triggerSlots));
@@ -38,7 +38,7 @@ if (awsUser === config.requestingUser) {
       //Call the function that builds the compliant alexa responce
       sendAlexaResponce(res, cardObject, outputSpeech);
       break;
-    case "triggerName2":
+    case "triggerNameTwo":
       // Put in here calls to your own functions / services
       // Output from functional calls should be the setting of cardObject and outputSpeech objects
       // See aws alexa docs for more info on diffent types, and customising the card and speach objects

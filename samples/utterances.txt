@@ -1,0 +1,28 @@
+triggerNameOne are there any alerts
+triggerNameOne any alerts for {key}
+triggerNameOne active alerts
+triggerNameOne anything i need to worry about
+triggerNameOne alert status
+triggerNameOne issue status
+triggerNameOne for a quick update
+triggerNameOne for a summary
+triggerNameOne to summarise
+triggerNameOne update me
+
+triggerNameTwo help
+triggerNameTwo help me
+triggerNameTwo what can I ask you
+triggerNameTwo get help
+triggerNameTwo to help
+triggerNameTwo to help me
+triggerNameTwo what commands can I ask
+triggerNameTwo what commands can I say
+triggerNameTwo what can I do
+triggerNameTwo what can I use this for
+triggerNameTwo what questions can I ask
+triggerNameTwo what can you do
+triggerNameTwo what do you do
+triggerNameTwo how do I use you
+triggerNameTwo how can I use you
+triggerNameTwo what can you tell me
+triggerNameTwo how do i find a bus
