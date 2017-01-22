@@ -20,10 +20,11 @@ var outputSpeech = {};
 // In production, as requests will come from places other than your amazon account,
 // you will need to swap with out with validation of user against a users database
 if (awsUser === config.requestingUser) {
+  // Trigger names are called 'intents', and are defined when you create your function using the aws console
   switch (triggerName) {
     case "triggerName1":
       // Put in here calls to your own functions / services
-      //Additional slot information is provided in triggerSlots
+      //Additional slot information is provided in triggerSlots. These are defined and explained in more detail in aws alexa console
       console.log (JSON.stringify(triggerSlots));
       // Output from functional calls should be the setting of cardObject and outputSpeech objects
       // See aws alexa docs for more info on diffent types, and customising the card and speach objects
