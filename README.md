@@ -24,4 +24,4 @@ You can find your aws user id by triggering a sample call from the aws alexa con
 
 # Need More Help with NodeJS Applications?
 More information about a basic nodeJS app can be found via another (*shameless plug*) tutorial i've written, located at:<br/>
-http://peterbelcher.com/super-simple-app-api-using-nodejs/
+http://peterbelcher.com/alexa-webserver/
